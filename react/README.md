@@ -1,5 +1,5 @@
 ## React Term List Contents:
-This list was auto-generated from the dictionary_custom_javascript.json file above.
+This list was auto-generated from the dictionary_custom_react.json file above.
 
 
 ### AJAX
