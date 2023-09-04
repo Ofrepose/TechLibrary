@@ -1,3 +1,7 @@
+## Javascript Term List Contents:
+This list was auto-generated from the dictionary_custom_javascript.json file above.
+
+
 ### findIndex
 - **defintion**: The 'findIndex()' method is part of the Array object in JavaScript. It returns the index of the first element in the array that satisfies a provided testing function. If no elements satisfy the testing function, it returns -1. The function is not invoked for index properties that have been deleted or are uninitialized. This method does not mutate the array on which it is called, but the function provided will be called for every element in the array until it finds one where it returns a truthy value. If such an element is found, 'findIndex()' immediately returns the element's index. If the callback never returns a truthy value (or the array's length is 0), 'findIndex()' returns -1.
 
