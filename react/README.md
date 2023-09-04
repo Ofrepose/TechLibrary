@@ -1,3 +1,7 @@
+## React Term List Contents:
+This list was auto-generated from the dictionary_custom_javascript.json file above.
+
+
 ### AJAX
 - **defintion**: AJAX stands for Asynchronous JavaScript and XML. It is a set of web development techniques that allows data to be fetched from a web server asynchronously, without the need for a full page refresh. AJAX enables developers to update parts of a web page with new data, providing a smoother and more responsive user experience. It uses XMLHttpRequest (XHR) objects or the Fetch API in modern JavaScript to send and receive data from the server asynchronously.
 - **Example**: 
